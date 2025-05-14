@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=HyunZai&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=HyunZai&fontSize=90&desc=Keep%20learning!" />
 
 <!--
 **HyunZai/HyunZai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
