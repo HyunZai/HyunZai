@@ -5,25 +5,25 @@
 <div align="center">
 
 #### 🌐 Languages
-<img onclick="return false;" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/C%23-C073D8?style=for-the-badge&logo=&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/java-F29111?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-C073D8?style=for-the-badge&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/java-F29111?style=for-the-badge&logo=Java&logoColor=white">
 
 #### 🧱 Frameworks & Libraries
-<img onclick="return false;" src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
 
 #### 🗄️ Databases
-<img onclick="return false;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=Oracle&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/MS SQL-81BC06?style=for-the-badge&logo=Mssql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-C74634?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MS SQL-81BC06?style=for-the-badge&logo=Mssql&logoColor=white">
 
 #### 🖥️ Frontend Technologies
-<img onclick="return false;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img onclick="return false;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 
 <div/>
 
