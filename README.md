@@ -1,4 +1,4 @@
-해<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=Keep%20learning" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Welcome!&fontSize=90&desc=Keep%20learning" />
 
 <h1>김현재 ㆍ Hyunjae Kim 🇰🇷</h1>
 <h2>Software Developer</h2>
