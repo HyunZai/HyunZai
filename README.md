@@ -31,7 +31,7 @@
 
 
 <!--
-*HyunZai/HyunZai* is  _special_ repository because its README
+*HyunZai/HyunZai* is  _special_ repository because its
 
 -I’m currently working on
 -I’m currently learning 
