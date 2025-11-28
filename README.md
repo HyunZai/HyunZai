@@ -34,5 +34,4 @@
 *HyunZai/HyunZai* is  _special_ repository because
 
 -I’m currently working on
--I’m currently learni
 -->
