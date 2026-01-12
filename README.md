@@ -31,5 +31,5 @@
 
 
 <!--
-*HyunZai* is  _special_ repository because
+*HyunZai* is  _special_ repository
 -->
